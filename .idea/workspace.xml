@@ -45,6 +45,9 @@
       <module name="commity_exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -86,6 +89,9 @@
       <module name="commity_exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -117,6 +123,10 @@
       <option name="presentableId" value="Default" />
       <updated>1606833199504</updated>
       <workItem from="1606833205238" duration="5884000" />
+      <workItem from="1606923940702" duration="280000" />
+      <workItem from="1606924684243" duration="1388000" />
+      <workItem from="1606927062036" duration="870000" />
+      <workItem from="1606928172959" duration="1005000" />
     </task>
     <servers />
   </component>
@@ -124,6 +134,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="570" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606924715235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="570" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1606924715235" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1606834731582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

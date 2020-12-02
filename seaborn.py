@@ -26,3 +26,14 @@ flights_table = flights.pivot(index='month', columns='year', values='passengers'
 
 sns.heatmap(flights_table)
 plt.show()
+
+sns.rugplot(pd.Series(np.random.randn(100)))
+plt.show()
+
+sns.set()
+sns.distplot(pd.Series(np.random.randn(100)), rug=True)
+plt.show()
+
+iris = sns.load_dataset('iris')
+iris.head(2)
+petal=iris[['petal_length',]]
